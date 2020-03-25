@@ -1,0 +1,5 @@
+# ignore grafana auto generated
+/server/grafana
+
+# ignore influxdb data
+/server/influxdb
