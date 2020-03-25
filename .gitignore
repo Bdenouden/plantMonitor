@@ -3,3 +3,6 @@
 
 # ignore influxdb data
 /server/influxdb
+
+# ignore vs code settings
+/.vscode/
